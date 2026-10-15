@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tilesetter-cyber.github.io/tile-spec-finder/sitemap.xml

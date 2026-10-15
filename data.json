@@ -1,0 +1,471 @@
+{
+ "sources": {
+  "ansi_preview": {
+   "t": "ANSI A108/A118/A136.1-2020 preview (TCNA/ANSI)",
+   "u": "https://webstore.ansi.org/preview-pages/TCA/preview_ANSI+A108+A118+A136.1-2020.pdf"
+  },
+  "tcna_ansi": {
+   "t": "TCNA \u2013 ANSI Standards list",
+   "u": "https://tcnatile.com/resource-center/ansi-standards/"
+  },
+  "tcna_lht": {
+   "t": "TCNA Spotlight \u2013 Handbook changes (LHT mortar)",
+   "u": "https://tcnatile.com/wp-content/uploads/2022/08/TCNA-Spotlight_Mar-Apr_TILE_HB-Changes-pt-1.pdf"
+  },
+  "tcna_frost": {
+   "t": "TCNA FAQ \u2013 Frost resistance",
+   "u": "https://tcnatile.com/resource-center/faq/frost-resistance/"
+  },
+  "tcna_ext": {
+   "t": "TCNA \u2013 Ceramic Tile in an Exterior Installation",
+   "u": "https://tcnatile.com/wp-content/uploads/2022/08/Ceramic-Tile-in-an-Exterior-Installation.pdf"
+  },
+  "ctf_tot": {
+   "t": "Ceramic Tile Foundation \u2013 Tile Over It or Take It Up?",
+   "u": "https://www.ceramictilefoundation.org/blog/tile-over-or-take-it-up"
+  },
+  "boise": {
+   "t": "Boise Cascade GE-06 \u2013 TCNA 2023 wood-framed floor assemblies table",
+   "u": "https://cdn.mediavalet.com/usva/boisecascade/qH_U8FFZYkCsnI6eyZh3FA/4h9YI5ceck2QWiNcyYrvEw/Large/GE-06%20Designing%20for%20Ceramic%20or%20Tile%20Floors.pdf"
+  },
+  "stoneworld": {
+   "t": "Stone World \u2013 Natural stone over wood framing (F250, L/720)",
+   "u": "https://www.stoneworld.com/articles/95209-caution-natural-stone-tile-installed-over-wood-framing"
+  },
+  "sbca": {
+   "t": "SBCA \u2013 Special floor loading report (ANSI A108 L/360; MIA L/720)",
+   "u": "https://sbcindustry.com/system/files/sbca/research-report/node/1182/specialfloorloadingreport.pdf"
+  },
+  "apa": {
+   "t": "APA TT-006 \u2013 Ceramic Tile Over Wood Structural Panel Floors",
+   "u": "https://www.apawood.org/guides-tools-training/technical-document-library/technical-topics/ceramic-tile-over-wood-structural-panel-floors/"
+  },
+  "mapei_lht": {
+   "t": "MAPEI \u2013 LHT Mortars",
+   "u": "https://cdnmedia.mapei.com/docs/librariesprovider67/line-technical-documentation-documents/large-heavy-tile-mortars-en.pdf?sfvrsn=c38d02b1_21"
+  },
+  "mapei_aqua": {
+   "t": "MAPEI \u2013 Mapelastic AquaDefense TDS",
+   "u": "https://www.lowes.com/pdf/TDS_Mapelastic_Aquadefense.pdf"
+  },
+  "mapei_aqua_ig": {
+   "t": "MAPEI \u2013 AquaDefense installation guide",
+   "u": "https://cdnmedia.mapei.com/docs/librariesprovider10/line-technical-documentation-documents/mapelastic--aquadefense---installation-guide.pdf?sfvrsn=babe9aa6_10"
+  },
+  "lat_trowel": {
+   "t": "LATICRETE TDS 196 \u2013 Trowel selection & coverage",
+   "u": "https://cdn-global.laticrete.com/-/media/project/laticrete-international/shared/files/support-and-downloads/technical-datasheets/tds196.ashx?la=en"
+  },
+  "lat_glass": {
+   "t": "LATICRETE \u2013 Glass Tile Adhesive Lite",
+   "u": "https://www.laticrete.com/products/glass-tile-adhesive-lite"
+  },
+  "lat_glassds": {
+   "t": "LATICRETE \u2013 Glass Tile Adhesive data sheet",
+   "u": "https://cdn-global.laticrete.com/-/media/project/laticrete-international/north-america/product-documents/product-data-sheets/ds-252.ashx"
+  },
+  "lat_254": {
+   "t": "LATICRETE \u2013 254 Platinum data sheet",
+   "u": "https://cdn-global.laticrete.com/-/media/project/laticrete-international/north-america/product-documents/product-data-sheets/ds-677.ashx"
+  },
+  "lat_wp": {
+   "t": "LATICRETE \u2013 Waterproofing membranes",
+   "u": "https://www.laticrete.com/our-products/tile-and-stone-installation/waterproofing"
+  },
+  "lat_steam": {
+   "t": "LATICRETE \u2013 Steam Room Technical Design Manual",
+   "u": "https://cdn-global.laticrete.com/-/media/project/laticrete-international/shared/files/technical-design-manuals/ds125_steam_room_technical_design_manual.pdf"
+  },
+  "cbp_lht": {
+   "t": "CUSTOM \u2013 VersaBond-LHT",
+   "u": "https://www.custombuildingproducts.com/products/versabond-lft-professional-large-format-tile-mortar"
+  },
+  "cbp_trowel": {
+   "t": "CUSTOM \u2013 Set Tools / trowel chart",
+   "u": "https://www.custombuildingproducts.com/wp-content/uploads/2021/09/trowel.pdf"
+  },
+  "cbp_redgard": {
+   "t": "CUSTOM \u2013 RedGard TDS-104",
+   "u": "https://www.custombuildingproducts.com/TDS/TDS-104.pdf"
+  },
+  "cbp_steam": {
+   "t": "CUSTOM \u2013 RedGard steam shower TB40",
+   "u": "https://www.custombuildingproducts.com/media/686991/TB40%20Steam%20Shower.pdf"
+  },
+  "tec": {
+   "t": "TEC/H.B. Fuller \u2013 Ultimate Premixed Mortar PDS (trowel table)",
+   "u": "https://www.tecspecialty.com/hbfuller-media/5902/pds_tec-130_ultimatemortar_r0925.pdf"
+  },
+  "sch_ditra_set": {
+   "t": "Schluter FAQ \u2013 thin-set to install DITRA",
+   "u": "https://www.schluter.com/schluter-us/en_US/faq/ditra-ditraxl-thin-set-mortar-type"
+  },
+  "sch_ditra_tile": {
+   "t": "Schluter FAQ \u2013 thin-set for tile over DITRA",
+   "u": "https://www.schluter.com/schluter-us/en_US/faq/ditra-ditraxl-tile-thin-set-mortar-type"
+  },
+  "sch_heat": {
+   "t": "Schluter FAQ \u2013 thin-set for tile over DITRA-HEAT",
+   "u": "https://www.schluter.com/schluter-us/en_US/faq/ditraheat-thin-set-mortar-type-setting-tile"
+  },
+  "sch_ditra_hb": {
+   "t": "Schluter \u2013 DITRA Installation Handbook (PDF)",
+   "u": "https://resources.schluter.com/media/psi/lowes/DITRA%20Installation%20Handbook.pdf"
+  },
+  "sch_kerdi": {
+   "t": "Schluter \u2013 KERDI product page",
+   "u": "https://www.schluter.com/schluter-us/en_US/Membranes/Waterproofing-(KERDI)/Schluter-KERDI/p/KERDI"
+  },
+  "sch_steam": {
+   "t": "Schluter FAQ \u2013 KERDI in steam showers",
+   "u": "https://www.schluter.com/schluter-us/en_US/faq/shower-system-kerdi-steam-shower"
+  },
+  "sch_shower_hb": {
+   "t": "Schluter \u2013 Shower System Installation Handbook (PDF)",
+   "u": "https://assets.schluter.com/asset/570120892212/document_i2tt9fh4sp2n562jmirhppbv4o/Shower%20System%20Installation%20Handbook.pdf?content-disposition=inline"
+  }
+ },
+ "products": {
+  "ditra": {
+   "n": "Schluter DITRA / DITRA-XL (uncoupling)",
+   "spec": "Bond DITRA with ANSI A118.11 modified thin-set over plywood/OSB; unmodified A118.1 over concrete or gypsum. Tile over DITRA: Schluter SET, ALL-SET, FAST-SET, or unmodified A118.1 (Schluter advises against other brands' modified mortars here due to slow cure).",
+   "s": [
+    "sch_ditra_set",
+    "sch_ditra_tile",
+    "sch_ditra_hb"
+   ]
+  },
+  "ditraheat": {
+   "n": "Schluter DITRA-HEAT (uncoupling + heating cable)",
+   "spec": "Tile over DITRA-HEAT: Schluter SET, ALL-SET, FAST-SET, or unmodified A118.1. Moisture-sensitive stone (e.g., green marble) may need special setting materials.",
+   "s": [
+    "sch_heat",
+    "sch_ditra_hb"
+   ]
+  },
+  "kerdi": {
+   "n": "Schluter KERDI (8 mil sheet waterproofing)",
+   "spec": "Bond with Schluter SET/ALL-SET/FAST-SET or unmodified thin-set; seams 2 in overlap or KERDI-BAND. Suitable for showers and intermittent-use steam showers (0.90 perms).",
+   "s": [
+    "sch_kerdi",
+    "sch_shower_hb",
+    "sch_steam"
+   ]
+  },
+  "kerdids": {
+   "n": "Schluter KERDI-DS (20 mil, low-perm)",
+   "spec": "Required by Schluter for continuous-use steam rooms (0.18 perms, ASTM E96 Proc. E).",
+   "s": [
+    "sch_steam",
+    "sch_shower_hb"
+   ]
+  },
+  "redgard": {
+   "n": "CUSTOM RedGard (liquid)",
+   "spec": "Meets ANSI A118.10 and A118.12 high performance (cracks to 1/8 in); IAPMO shower pan liner; 0.35 perms at steam spec (<0.5 required); steam showers applied 40\u201345 mils per TB40 (follow TCNA SR614/SR615).",
+   "s": [
+    "cbp_redgard",
+    "cbp_steam"
+   ]
+  },
+  "aqua": {
+   "n": "MAPEI Mapelastic AquaDefense (liquid)",
+   "spec": "Exceeds A118.10-LV and A118.12; IAPMO shower-pan liner; 0.35 perms. MAPEI's installation guide states a vapor barrier is required with it in steam rooms; not for OSB.",
+   "s": [
+    "mapei_aqua",
+    "mapei_aqua_ig"
+   ]
+  },
+  "hydroban": {
+   "n": "LATICRETE HYDRO BAN family",
+   "spec": "Meets/exceeds A118.10 and A118.12; tile over with A118.4, A118.15 or A118.3 adhesive. LATICRETE lists HYDRO BAN, HYDRO BAN Sheet Membrane, Quick Cure and 9235 for steam rooms with compatible LATICRETE thin-sets.",
+   "s": [
+    "lat_wp",
+    "lat_steam"
+   ]
+  }
+ },
+ "tiles": {
+  "porcelain": {
+   "n": "Porcelain",
+   "mortar": "Modified ANSI A118.4 or improved modified A118.15 mortar (e.g., LATICRETE 254 Platinum exceeds A118.4/A118.11/A118.15).",
+   "s": [
+    "ansi_preview",
+    "lat_254"
+   ],
+   "trowel": "CUSTOM chart: 1/4\u00d71/4\u00d71/4 in square notch for tile up to 8 in; 1/4\u00d73/8\u00d71/4 in square notch for 8\u201316 in. Confirm coverage by pulling tiles.",
+   "ts": [
+    "cbp_trowel",
+    "lat_trowel"
+   ],
+   "frost": "Porcelain is \u22640.5% absorption (impervious) but only the manufacturer can rate a tile for exterior; look for ASTM C1026 freeze-thaw results.",
+   "fs": [
+    "tcna_ext",
+    "tcna_frost"
+   ]
+  },
+  "ceramic": {
+   "n": "Ceramic (glazed wall/floor)",
+   "mortar": "ANSI A118.4 modified mortar generally. Use of A118.1 dry-set for interior wall tile not confirmed from a source here. [verify]",
+   "s": [
+    "ansi_preview"
+   ],
+   "trowel": "CUSTOM chart: 1/4\u00d71/4\u00d71/4 in square notch up to 8 in; 1/4\u00d73/8\u00d71/4 in square notch 8\u201316 in.",
+   "ts": [
+    "cbp_trowel"
+   ],
+   "frost": "TCNA: absorption alone doesn't predict frost performance (3% tiles have failed C1026; some 5\u20137% passed); only the manufacturer can rate a tile for exterior use.",
+   "fs": [
+    "tcna_ext",
+    "tcna_frost"
+   ]
+  },
+  "stone": {
+   "n": "Natural stone",
+   "mortar": "ANSI A118.4/A118.15 mortar; white mortar for light marble. Moisture-sensitive stone (e.g., green marble) may require special setting materials such as epoxy \u2014 ask stone supplier. [verify]",
+   "s": [
+    "ansi_preview",
+    "sch_heat"
+   ],
+   "trowel": "Ungauged stone may require larger notch sizes and flat back-troweling (CUSTOM).",
+   "ts": [
+    "cbp_lht"
+   ],
+   "note": "Deflection: L/720 for natural stone over wood framing (TCNA assemblies / MIA) vs L/360 for ceramic. Stone over wood with backer board: TCNA F250 \u2014 19/32 in T&G ply subfloor + 15/32 in ply underlayment (residential), joists max 16 in o.c.",
+   "ns": [
+    "boise",
+    "stoneworld",
+    "sbca"
+   ],
+   "frost": "Exterior suitability is stone-specific \u2014 check with stone supplier. [verify]",
+   "fs": []
+  },
+  "glass": {
+   "n": "Glass",
+   "mortar": "White, non-sanded glass-tile mortar meeting ANSI A118.15 (e.g., LATICRETE Glass Tile Adhesive Lite). Follow the glass tile maker's approved list.",
+   "s": [
+    "lat_glass",
+    "lat_254"
+   ],
+   "trowel": "Trowel per glass tile manufacturer; no independent source confirmed here. [verify]",
+   "ts": [
+    "lat_glass"
+   ],
+   "note": "ANSI A108.15 covers paper-faced glass mosaic. In steam rooms LATICRETE suggests HYDRO BAN Cementitious membrane then Glass Tile Adhesive, 254 Platinum, 257 Titanium, or LATAPOXY 300.",
+   "ns": [
+    "tcna_ansi",
+    "lat_steam"
+   ],
+   "frost": "Exterior use only where glass tile maker rates it. [verify]",
+   "fs": []
+  },
+  "lft": {
+   "n": "Large format / gauged porcelain panels",
+   "mortar": "Tile with any side >15 in or >5 lb/ft\u00b2: LHT mortar meeting A118.4H or A118.15H (bond coat 3/32\u20131/2 in after embedding). Gauged porcelain tile panels/slabs: ANSI A108.19 (interior) / A108.20 (exterior), mortar per panel maker.",
+   "s": [
+    "tcna_lht",
+    "mapei_lht",
+    "tcna_ansi",
+    "lat_254"
+   ],
+   "trowel": "Ridge-collapsing notch (U, slant, LFT), e.g., 3/4\u00d79/16\u00d73/8 in U-notch at 30\u00b0 (CUSTOM); CUSTOM advises against 1/2\u00d71/2 in square; back-trowel as needed. Panel-specific trowel/back-butter: per panel maker.",
+   "ts": [
+    "cbp_lht",
+    "lat_trowel"
+   ],
+   "note": "TCNA: LHT mortar cannot be used to level or flatten substrates or build slopes.",
+   "ns": [
+    "tcna_lht"
+   ],
+   "frost": "Exterior GPTP per ANSI A108.20; tile must be manufacturer-rated for exterior.",
+   "fs": [
+    "tcna_ansi",
+    "tcna_ext"
+   ]
+  },
+  "mosaic": {
+   "n": "Mosaic (sheet-mounted)",
+   "mortar": "ANSI A118.4 or A118.15 modified mortar; for glass mosaics see Glass.",
+   "s": [
+    "ansi_preview",
+    "lat_254"
+   ],
+   "trowel": "3/16\u00d75/32 in V-notch for tile up to 6\u00d76 in (TEC/H.B. Fuller data sheet, premixed adhesive \u2014 confirm with your thinset's data sheet).",
+   "ts": [
+    "tec"
+   ],
+   "frost": "Depends on mosaic body \u2014 manufacturer must rate for exterior.",
+   "fs": [
+    "tcna_ext"
+   ]
+  }
+ },
+ "substrates": {
+  "slab": {
+   "n": "Concrete slab",
+   "notes": "Honor movement joints through tile. Crack isolation membranes per ANSI A118.12 / installed per A108.17.",
+   "s": [
+    "tcna_ansi"
+   ],
+   "memb": [
+    "redgard",
+    "aqua",
+    "hydroban",
+    "ditra"
+   ],
+   "mtag": "Crack isolation (A118.12) over shrinkage cracks; DITRA bonded with unmodified A118.1 over concrete."
+  },
+  "plywood": {
+   "n": "Plywood subfloor",
+   "notes": "TCNA 2023 wood floor assemblies (per Boise Cascade summary): most limit joists to 16 in o.c. (3 allow 19.2 in, 6 allow 24 in). Examples: F148 \u2014 23/32 in ext-glue T&G ply + uncoupling membrane at 19.2 in o.c.; F147 \u2014 23/32 in ply + 3/8 in ply underlayment at 24 in o.c. Deflection L/360 ceramic, L/720 stone. Exterior-glue plywood only; not over particle board, luan or interior-glue ply.",
+   "s": [
+    "boise",
+    "apa",
+    "lat_glassds"
+   ],
+   "memb": [
+    "ditra"
+   ],
+   "mtag": "Uncoupling membrane (DITRA bonded with A118.11 modified over plywood) or cement backer per the chosen TCNA method.",
+   "mortarAdj": "Mortar must be rated for exterior-glue plywood (A118.11)."
+  },
+  "cbu": {
+   "n": "Cement board",
+   "notes": "Cement board is not waterproof \u2014 add a bonded A118.10 membrane in wet areas.",
+   "s": [
+    "lat_wp"
+   ],
+   "memb": [
+    "kerdi",
+    "redgard",
+    "aqua",
+    "hydroban"
+   ],
+   "mtag": ""
+  },
+  "drywall": {
+   "n": "Drywall (gypsum board)",
+   "notes": "Dry interior walls only.",
+   "s": [
+    "lat_glass"
+   ],
+   "memb": [],
+   "mtag": "None required in dry areas.",
+   "block": [
+    "shower",
+    "steam",
+    "exterior",
+    "floor"
+   ]
+  },
+  "existing": {
+   "n": "Existing tile (tile-over-tile)",
+   "notes": "Existing tile must be sound, well bonded and cleaned/scarified; mortar must list existing ceramic tile as a substrate. The Ceramic Tile Foundation advises against tile-over-tile in continuous-use steam showers (existing vapor barrier can't be verified; second membrane may trap moisture) \u2014 full tear-out recommended.",
+   "s": [
+    "ctf_tot",
+    "lat_glass"
+   ],
+   "memb": [
+    "redgard",
+    "hydroban"
+   ],
+   "mtag": "Membrane over existing tile: check membrane data sheet for existing-tile substrate and primer/skim-coat requirements. [verify]",
+   "block": [
+    "steam"
+   ]
+  },
+  "heated": {
+   "n": "Heated floor",
+   "notes": "Install cables per heat maker; with DITRA, cables are encapsulated in ALL-SET/FAST-SET/modified thin-set or leveler, cured, then DITRA set with SET or unmodified mortar. DITRA-HEAT holds cables without leveler.",
+   "s": [
+    "sch_ditra_hb"
+   ],
+   "memb": [
+    "ditraheat",
+    "ditra"
+   ],
+   "mtag": "",
+   "block": [
+    "wall",
+    "steam",
+    "exterior"
+   ]
+  }
+ },
+ "locations": {
+  "floor": {
+   "n": "Floor",
+   "cov": "Min 80% average contact; corners and edges supported.",
+   "cs": [
+    "lat_trowel",
+    "cbp_lht"
+   ]
+  },
+  "wall": {
+   "n": "Wall (dry)",
+   "cov": "Min 80% average contact (ANSI A108.5).",
+   "cs": [
+    "lat_trowel"
+   ]
+  },
+  "shower": {
+   "n": "Shower / wet area",
+   "cov": "95% average contact, corners and edges fully supported (ANSI A108.5).",
+   "cs": [
+    "lat_trowel",
+    "cbp_lht"
+   ],
+   "req": "Bonded waterproofing membrane meeting ANSI A118.10 required \u2014 mortars are not waterproofing.",
+   "rs": [
+    "lat_wp",
+    "tcna_ansi"
+   ],
+   "pick": [
+    "kerdi",
+    "redgard",
+    "aqua",
+    "hydroban"
+   ]
+  },
+  "steam": {
+   "n": "Steam shower",
+   "cov": "95% average contact (wet area).",
+   "cs": [
+    "lat_trowel"
+   ],
+   "req": "Low-perm membrane (<0.5 perms, ASTM E96 Proc. E) per TCNA SR613 (continuous) / SR614 (intermittent). KERDI: intermittent only; KERDI-DS for continuous. RedGard at 40\u201345 mils. AquaDefense needs separate vapor barrier in steam rooms.",
+   "rs": [
+    "sch_steam",
+    "cbp_steam",
+    "cbp_redgard",
+    "mapei_aqua_ig",
+    "lat_steam"
+   ],
+   "pick": [
+    "kerdids",
+    "kerdi",
+    "redgard",
+    "hydroban",
+    "aqua"
+   ]
+  },
+  "exterior": {
+   "n": "Exterior",
+   "cov": "95% average contact, edges supported (ANSI A108.5).",
+   "cs": [
+    "lat_trowel",
+    "mapei_lht"
+   ],
+   "req": "Tile must be manufacturer-rated for exterior/freeze-thaw (ASTM C1026); provide drainage \u2014 standing water and ice in joints damage even frost-resistant tile. Waterproofing over occupied space; AquaDefense is not for use as primary membrane over occupied space.",
+   "rs": [
+    "tcna_frost",
+    "tcna_ext",
+    "mapei_aqua_ig"
+   ],
+   "pick": [
+    "redgard",
+    "hydroban"
+   ]
+  }
+ }
+}
