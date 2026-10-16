@@ -9,3 +9,5 @@ input{padding:10px;border:1px solid #ccc;border-radius:8px;width:62%}button,.btn
 @media(max-width:700px){.picker,.res,.grid2{grid-template-columns:1fr}}
 .card.wide{grid-column:1/-1}.req{background:#e8f1f8;border-left:4px solid #33658a;padding:8px 10px;border-radius:6px}.card li{margin-bottom:8px}.src a{display:inline-block}
 .pop ul{columns:2;padding-left:18px}.pop a,.crumb a{color:#33658a}.home{color:#fff;text-decoration:none}
+
+.shop{margin-top:.4em;font-size:.9em}.aff,.disc{font-size:.8em;opacity:.8}.feat{margin-top:.6em;padding:.5em;border:1px dashed #c90;border-radius:6px}.badge{background:#c90;color:#fff;font-size:.75em;padding:1px 6px;border-radius:4px}

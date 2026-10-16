@@ -467,5 +467,91 @@
     "hydroban"
    ]
   }
+ },
+ "affiliate": {
+  "_note": "Amazon Associates enabled (tag tilespecfinde-20). Search URLs only, no ASINs.",
+  "enabled": true,
+  "retailers": {
+   "amazon": {
+    "n": "Amazon",
+    "url": "https://www.amazon.com/s?k={q}&tag={id}",
+    "id": "tilespecfinde-20"
+   }
+  },
+  "products": {
+   "ditra": "Schluter DITRA uncoupling membrane",
+   "ditraheat": "Schluter DITRA-HEAT",
+   "kerdi": "Schluter KERDI membrane",
+   "kerdids": "Schluter KERDI-DS",
+   "redgard": "Custom RedGard waterproofing",
+   "aqua": "MAPEI Mapelastic AquaDefense",
+   "hydroban": "LATICRETE HYDRO BAN"
+  },
+  "cards": {
+   "mortar": "ARDEX X 5 thinset mortar",
+   "trowel": "square notch tile trowel"
+  },
+  "featured": {
+   "_note": "Paid sponsor slot. Keys: card name (mortar/trowel/membrane). Leave empty until a sponsor signs.",
+   "slots": {}
+  },
+  "gear": [
+   [
+    "Shower pans",
+    "shower pan kit tile"
+   ],
+   [
+    "wedi Fundo shower pan",
+    "wedi Fundo shower pan"
+   ],
+   [
+    "wedi board",
+    "wedi building panel"
+   ],
+   [
+    "Schluter Kerdi",
+    "Schluter Kerdi membrane"
+   ],
+   [
+    "Schluter Kerdi-Board",
+    "Schluter Kerdi-Board"
+   ],
+   [
+    "Schluter DITRA",
+    "Schluter DITRA uncoupling membrane"
+   ],
+   [
+    "Schluter DITRA-HEAT",
+    "Schluter DITRA-HEAT"
+   ],
+   [
+    "RedGard",
+    "Custom RedGard waterproofing"
+   ],
+   [
+    "ARDEX X 5 thinset",
+    "ARDEX X 5 thinset mortar"
+   ],
+   [
+    "Modified thinset (A118.4)",
+    "ANSI A118.4 modified thinset mortar"
+   ],
+   [
+    "Grout",
+    "sanded tile grout"
+   ],
+   [
+    "Epoxy grout",
+    "epoxy tile grout"
+   ],
+   [
+    "Tile trowels",
+    "square notch tile trowel"
+   ],
+   [
+    "Tile leveling system",
+    "tile leveling system clips wedges"
+   ]
+  ]
  }
 }
