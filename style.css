@@ -11,3 +11,5 @@ input{padding:10px;border:1px solid #ccc;border-radius:8px;width:62%}button,.btn
 .pop ul{columns:2;padding-left:18px}.pop a,.crumb a{color:#33658a}.home{color:#fff;text-decoration:none}
 
 .shop{margin-top:.4em;font-size:.9em}.aff,.disc{font-size:.8em;opacity:.8}.feat{margin-top:.6em;padding:.5em;border:1px dashed #c90;border-radius:6px}.badge{background:#c90;color:#fff;font-size:.75em;padding:1px 6px;border-radius:4px}
+
+.topnav{margin:.3rem 0}.topnav a{color:#fff;text-decoration:underline}
